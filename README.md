@@ -36,7 +36,7 @@ Trying to establish a standard easy blog collection site for categorizing blogs
 
 API 可固定在某一链接， url\blog-composition， api 设计符合如 RESTful API 之类的标准。
 
-API 获取实例
+API 获取样例
 
 ```json
 {

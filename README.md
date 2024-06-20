@@ -1,11 +1,22 @@
 # blog-composition
+
 Trying to establish a standard easy blog collection site for categorizing blogs
 
 如何分类博客
 
+---
+
+- [blog-composition](#blog-composition)
+  - [不愿运行一个 API 程序，如何获取博客的分类](#不愿运行一个-api-程序如何获取博客的分类)
+  - [愿意运行一个 API 程序，如何获取博客的分类](#愿意运行一个-api-程序如何获取博客的分类)
+  - [博客园如何设计分类系统](#博客园如何设计分类系统)
+
+---
+
 ## 不愿运行一个 API 程序，如何获取博客的分类
 
-就让站长自己标记\声明\选择是生活博客还是技术博客
+1. 就让站长自己标记\声明\选择是生活博客还是技术博客
+2. 在站点主页元数据内标记自己站点有多少技术类文章，多少非技术类文章
 
 ## 愿意运行一个 API 程序，如何获取博客的分类
 
